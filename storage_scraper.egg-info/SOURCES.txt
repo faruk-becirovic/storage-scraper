@@ -1,0 +1,15 @@
+pyproject.toml
+setup.py
+storage_scraper/__init__.py
+storage_scraper/cli.py
+storage_scraper/config.py
+storage_scraper/exporter.py
+storage_scraper/models.py
+storage_scraper/ollama_client.py
+storage_scraper/scraper.py
+storage_scraper.egg-info/PKG-INFO
+storage_scraper.egg-info/SOURCES.txt
+storage_scraper.egg-info/dependency_links.txt
+storage_scraper.egg-info/entry_points.txt
+storage_scraper.egg-info/requires.txt
+storage_scraper.egg-info/top_level.txt
