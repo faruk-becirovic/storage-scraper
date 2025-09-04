@@ -1,5 +1,8 @@
+Makefile
+output.csv
 pyproject.toml
 setup.py
+storage_scraper.log
 storage_scraper/__init__.py
 storage_scraper/cli.py
 storage_scraper/config.py
@@ -13,3 +16,10 @@ storage_scraper.egg-info/dependency_links.txt
 storage_scraper.egg-info/entry_points.txt
 storage_scraper.egg-info/requires.txt
 storage_scraper.egg-info/top_level.txt
+storage_scraper/__pycache__/__init__.cpython-313.pyc
+storage_scraper/__pycache__/cli.cpython-313.pyc
+storage_scraper/__pycache__/config.cpython-313.pyc
+storage_scraper/__pycache__/exporter.cpython-313.pyc
+storage_scraper/__pycache__/models.cpython-313.pyc
+storage_scraper/__pycache__/ollama_client.cpython-313.pyc
+storage_scraper/__pycache__/scraper.cpython-313.pyc
